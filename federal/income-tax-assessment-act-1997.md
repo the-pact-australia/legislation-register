@@ -2,30 +2,39 @@
 jurisdiction: federal
 act-name: Income Tax Assessment Act 1997
 series-id: C2004A05138
-compilation-id: C2004A05138
-compiled-date: 2026-06-05
-source: https://www.legislation.gov.au/Details/C2004A05138/Html/Text
-added-to-repo: 2026-06-05
+source: https://www.legislation.gov.au/C2004A05138/latest/text
+downloaded: 2026-06-07
 ---
 
-__
+In force 
 
-## Page not found
+Administered by 
 
-The page you requested could not be found.
-
-**We've recently updated our website.**  
+  * Department of the Treasury 
 
 
-If you can't find what you are looking for the page or file that you are trying to access may have moved, or the web address you have entered is now incorrect.
+Latest version __Click for more info
 
-To help find what you’re looking for, you could:
+[View as made version](/C2004A05138/asmade)
 
-* check that you entered the address correctly
-* [search](/) the website using keywords
-* navigate from the [homepage](/) or use the browse menu
-* access previous versions of this website on the National Library of Australia’s [Australian Government Web Archive](https://webarchive.nla.gov.au/awa/20170218155617/https://www.legislation.gov.au/)
-  
+[ __Order print copy](/C2004A05138/latest/order-print-copy)
 
+ __Save this title to My Account
 
-If you still can’t find what you need, [contact us](/help-and-resources/using-the-legislation-register/feedback) for assistance.
+ __Set up an alert
+
+C2026C00122 C26301 April 2026 \- 20 May 2026
+
+* * *
+
+# Legislation text
+
+View document
+
+Select value
+
+Act
+
+ ______
+
+______

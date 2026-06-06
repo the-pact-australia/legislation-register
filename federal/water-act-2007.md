@@ -2,30 +2,39 @@
 jurisdiction: federal
 act-name: Water Act 2007
 series-id: C2007A00137
-compilation-id: C2007A00137
-compiled-date: 2026-06-05
-source: https://www.legislation.gov.au/Details/C2007A00137/Html/Text
-added-to-repo: 2026-06-05
+source: https://www.legislation.gov.au/C2007A00137/latest/text
+downloaded: 2026-06-07
 ---
 
-__
+In force 
 
-## Page not found
+Administered by 
 
-The page you requested could not be found.
-
-**We've recently updated our website.**  
+  * Department of Climate Change, Energy, the Environment and Water 
 
 
-If you can't find what you are looking for the page or file that you are trying to access may have moved, or the web address you have entered is now incorrect.
+Latest version
 
-To help find what you’re looking for, you could:
+[View as made version](/C2007A00137/asmade)
 
-* check that you entered the address correctly
-* [search](/) the website using keywords
-* navigate from the [homepage](/) or use the browse menu
-* access previous versions of this website on the National Library of Australia’s [Australian Government Web Archive](https://webarchive.nla.gov.au/awa/20170218155617/https://www.legislation.gov.au/)
-  
+[ __Order print copy](/C2007A00137/latest/order-print-copy)
 
+ __Save this title to My Account
 
-If you still can’t find what you need, [contact us](/help-and-resources/using-the-legislation-register/feedback) for assistance.
+ __Set up an alert
+
+C2025C00411 C3401 July 2025
+
+* * *
+
+# Legislation text
+
+View document
+
+Select value
+
+Act
+
+ ______
+
+______

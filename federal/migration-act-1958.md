@@ -1,31 +1,40 @@
 ---
 jurisdiction: federal
 act-name: Migration Act 1958
-series-id: C2004A01468
-compilation-id: C2004A01468
-compiled-date: 2026-06-05
-source: https://www.legislation.gov.au/Details/C2004A01468/Html/Text
-added-to-repo: 2026-06-05
+series-id: C1958A00062
+source: https://www.legislation.gov.au/C1958A00062/latest/text
+downloaded: 2026-06-07
 ---
 
-__
+In force 
 
-## Page not found
+Administered by 
 
-The page you requested could not be found.
-
-**We've recently updated our website.**  
+  * Department of Home Affairs 
 
 
-If you can't find what you are looking for the page or file that you are trying to access may have moved, or the web address you have entered is now incorrect.
+Latest version __Click for more info
 
-To help find what you’re looking for, you could:
+[View as made version](/C1958A00062/asmade)
 
-* check that you entered the address correctly
-* [search](/) the website using keywords
-* navigate from the [homepage](/) or use the browse menu
-* access previous versions of this website on the National Library of Australia’s [Australian Government Web Archive](https://webarchive.nla.gov.au/awa/20170218155617/https://www.legislation.gov.au/)
-  
+[ __Order print copy](/C1958A00062/latest/order-print-copy)
 
+ __Save this title to My Account
 
-If you still can’t find what you need, [contact us](/help-and-resources/using-the-legislation-register/feedback) for assistance.
+ __Set up an alert
+
+C2026C00207 C17018 May 2026 \- 03 June 2026
+
+* * *
+
+# Legislation text
+
+View document
+
+Select value
+
+Act
+
+ ______
+
+______
